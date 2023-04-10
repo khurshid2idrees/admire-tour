@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/admire-tour/static/css/main.5fde8b9c.css",
+    "main.js": "/admire-tour/static/js/main.627a7e24.js",
+    "static/js/787.3671dead.chunk.js": "/admire-tour/static/js/787.3671dead.chunk.js",
+    "static/media/background.jpeg": "/admire-tour/static/media/background.55e7c6abe92f33de0c12.jpeg",
+    "static/media/nainital.jpeg": "/admire-tour/static/media/nainital.fc13569cfef9095b8117.jpeg",
+    "static/media/shimla.jpeg": "/admire-tour/static/media/shimla.66ee886f01a5892850b8.jpeg",
+    "static/media/dubai.jpeg": "/admire-tour/static/media/dubai.19574fe70c4465bdd77d.jpeg",
+    "static/media/istanbul.jpeg": "/admire-tour/static/media/istanbul.cee97e4a9442a4b46551.jpeg",
+    "static/media/singapore.jpeg": "/admire-tour/static/media/singapore.b1d06b141a20b30d5522.jpeg",
+    "static/media/manali.jpeg": "/admire-tour/static/media/manali.4f28ba259349a3ee57c7.jpeg",
+    "static/media/kashmir.jpeg": "/admire-tour/static/media/kashmir.439b5702c1f8af459bd0.jpeg",
+    "index.html": "/admire-tour/index.html",
+    "main.5fde8b9c.css.map": "/admire-tour/static/css/main.5fde8b9c.css.map",
+    "main.627a7e24.js.map": "/admire-tour/static/js/main.627a7e24.js.map",
+    "787.3671dead.chunk.js.map": "/admire-tour/static/js/787.3671dead.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fde8b9c.css",
+    "static/js/main.627a7e24.js"
+  ]
+}
